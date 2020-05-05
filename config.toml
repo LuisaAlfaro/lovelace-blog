@@ -12,4 +12,5 @@ highlight_code = true
 build_search_index = true
 
 [extra]
-# Put all your custom variables here
+theme = "feather"
+feather_header_image = "/images/default.gif"

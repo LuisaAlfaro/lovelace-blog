@@ -12,4 +12,4 @@ jobs:
         PAGES_BRANCH: gh-pages
         BUILD_DIR: docs
         BUILD_FLAGS: --drafts
-        TOKEN: ${{ secrets.a37a37e15d677b01999ab925c4648abd4da729f9 }}
+        TOKEN: ${{ secrets.TOKEN }}

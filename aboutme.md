@@ -4,19 +4,27 @@ title: Acerca de Mi
 subtitle: Me gusta leer historias.
 ---
 
-Mi Nombre es Luisa Alfaro. Amo los panditas.
+Es posible que yo esté equivocada y que tú tengas la razón.
+Si no lo discutimos nunca lo sabremos.
 
-- Soy escritora
-- Soy Programadora
 
-What else do you need?
+# Sobre mí
 
-### Una breve presentación sobre mi
+Soy Luisa Alfaro, me gusta aprender e intentar cosas nuevas. Ahora mismo estoy aprendiendo a ser valiente.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+También soy politóloga porque pensé que tendría más respuestas, no pasó, pero aprendí a preguntar mejor.
 
-### Se escribir blogs
+Aún no soy experta en algo pero pronto lo seré.
 
-### Se escribir historias
+Me interesa leer e investigar sobre la intersección entre tecnología y sociedad.
 
-## Odio la pizza con piña
+Ma parece **necesario** crear un mundo más justo y amable para todas.
+
+Me gustan los datos y estoy aprendiendo sobre demografía.
+
+No leo y no hablo sin mis gafas moradas.
+
+Todo lo escrito aquí es *refutable* y **cambiante**.
+
+Bienvenu!
+

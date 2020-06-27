@@ -1,7 +1,7 @@
-
+---
+layout: page
 title: Acerca de mí
-
-
+---
 
 Soy Luisa Alfaro, me gusta aprender e intentar cosas nuevas. Ahora mismo estoy aprendiendo a ser valiente.
 

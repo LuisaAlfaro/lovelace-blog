@@ -37,7 +37,7 @@ Ya instalado, podemos comenzar con la Introducción a a la terminal y línea de 
 
 ### Te comparto los comandos básicos de la terminal y que serán tus mejores amigos ###
 
-´pwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
+´pwd´: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
 
 'mkdir': Nos permite crear carpetas (por ejemplo, mkdir Carpeta-Importante).
 

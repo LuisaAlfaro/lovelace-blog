@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Primeros apuntes sobre Git
-subtitle: ¿Qué es git? ¿Para qué sirve? Comandos básicos
+title: Funcionamiento de Git y comandos básicos
+subtitle: Flujos de trabajo en Git
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [Git]

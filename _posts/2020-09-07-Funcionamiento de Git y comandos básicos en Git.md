@@ -9,11 +9,11 @@ comments: true
 ---
 
 En este post explicaré el el ciclo básico de trabajo en Git y los comandos más utilizados para el mismo.
-Antes de comenzar quiero aclarar que Git no es lo mismo que GitHub, primero necesitamos tener claro el flujo de trabajo en Git antes de pasarnos a los repositorios remotos. 
+Aprovecho para aclarar que Git no es lo mismo que GitHub. Primero necesitamos tener claro el flujo de trabajo en Git antes de pasarnos a los repositorios remotos (GitHub)
 
 ### Explicación de los comandos de Git para después explicar los ciclos de estado de un archivo en Git ###
 
-Para iniciar un repositorio en tu computadora, o sea, activar el sistema de control de versiones de Git en tu proyecto (código), solo debes ejecutarl el comando en la terminar `git init`.
+Para iniciar un repositorio en tu computadora, o sea, activar el sistema de control de versiones de Git en tu proyecto (código), solo debes ejecutarl el comando `git init` en la terminar.
 
 Este comando se encargará de dos cosas: 
 

@@ -1,4 +1,4 @@
----
+#---
 layout: post
 title: Funcionamiento de Git y comandos básicos
 subtitle: Flujos de trabajo en Git

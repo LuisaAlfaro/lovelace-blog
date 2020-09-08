@@ -15,7 +15,7 @@ El control de versiones es una de las tareas fundamentales para la administraci�
 
 Al principio puede parecer retador, pero verás que es más sencillo de lo que puedes sospechar.
 
-###¿Por qué usar un control de versiones como Git?###
+### ¿Por qué usar un control de versiones como Git? ###
 Porque nos ayuda a guardar el historial de cambios y crecimiento de los archivos de nuestro proyecto. Git te permite guardar de forma optima los cambios por mínimos que sean. Olvidate de:
 
 - Código.csv
@@ -25,7 +25,7 @@ Porque nos ayuda a guardar el historial de cambios y crecimiento de los archivos
 
 Utilizar Git te permitirá guardar todos estos cambios de forma incremental, o sea aplicando cambios sobre los últimos cambios y te da la oportunidad de regresar a tu primer versión en el momento que tu quieras.
 
-###¿Qué necesitas para poder comenzar a controlar tus codigos con control de versiones?###
+### ¿Qué necesitas para poder comenzar a controlar tus codigos con control de versiones? ###
 
 Si utilizas windows necesitas instalar Git Bash y debes elegir si prefieres trabajar con la forma de Windows o la forma de UNIX (Linux y Mac).
 
@@ -35,9 +35,9 @@ También es necesario instalar un editores de código. Un editor de código es u
 
 Ya instalado, podemos comenzar con la Introducción a a la terminal y línea de comandos.
 
-###Te comparto los comandos básicos de la terminal y que serán tus mejores amigos###
+### Te comparto los comandos básicos de la terminal y que serán tus mejores amigos ###
 
-'pwd': Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
+´pwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
 
 'mkdir': Nos permite crear carpetas (por ejemplo, mkdir Carpeta-Importante).
 
@@ -69,9 +69,9 @@ Si quieres referirte al directorio en el que te encuentras ahora mismo puedes us
 
 '! + número': Ejecutar algún comando con el número que nos muestra el comando history (por ejemplo, !72).
 
-'clear': Para limpiar la terminal. También podemos usar los atajos de teclado Ctrl + L o Command + L.
+' clear ': Para limpiar la terminal. También podemos usar los atajos de teclado Ctrl + L o Command + L.
 
-###Y por último te comparto los comandos básicos de Git###
+### Y por último te comparto los comandos básicos de Git ###
 
 El comando para iniciar nuestro repositorio, o sea, indicarle a Git que queremos usar su sistema de control de versiones en nuestro proyecto, es 'git init'
 

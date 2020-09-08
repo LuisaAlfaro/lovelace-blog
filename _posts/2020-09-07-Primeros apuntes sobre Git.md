@@ -4,7 +4,7 @@ title: Primeros apuntes sobre Git
 subtitle: ¿Qué es git? ¿Para qué sirve? Comandos básicos
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-#tags: [test]
+tags: [Git]
 comments: true
 ---
 En este post resolveré las primeras dudas sobre Git y GitHub y por qué es una herramienta maravillosa para las personas que trabajamos con código. También proporcionaré los comandos básicos de la terminal y de Git para comenzar a usar este poderoso sowftware de control. Esa lista te será útil por siempre :).

@@ -46,7 +46,7 @@ Ya activado el control de versiones los siguientes comandos son los que utilizar
 
 La siguiente figura es un resúmen gráfico de lo que les expliqué con anterioridad.
 
-![imagen](/Users/luisaalfaro/lovelace-blog/_posts/imagenes post/Staging.jpg)
+![Imagen](/Users/luisaalfaro/lovelace-blog/_posts/imagenes post/Staging.jpg)
 
 ### ¿Qué es una rama y cómo funciona un marge en Git ###
 

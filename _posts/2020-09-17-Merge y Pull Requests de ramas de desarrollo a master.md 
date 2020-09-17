@@ -7,6 +7,7 @@ gh-repo: daattali/beautiful-jekyll
 tags: [Git]
 comments: true
 ---
+
 No olvidar que Git es un software de control de versiones pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de un código en tu computadora, es un repositorio local. Por otro lado, GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git, es un repositorio remoto. 
 
 Este control de versiones se vuelve poderoso cuando trabajamos en un equipo grande o cuando nuestro proyecto requiere muchos cambios y versiones. 
@@ -16,7 +17,7 @@ Existen varias formas de solucionar esto para poder aceptar contribuciones. Una 
 
 Solo debemos entrar a la configuración de colaboradores de nuestro proyecto (`Repositorio > Settings > Collaborators`) y añadir el email o username de los nuevos colaboradores. Para sacar el máximo potencial de Git y GitHub los Merges y Pull Requests son fundamentales de comprender. 
 
-En este post voy a explicar qué significa cada uno, sus diferencias y por supuesto, los comandos y flujo de trabajo para cada uno
+En este post voy a explicar qué significa cada uno, sus diferencias y por supuesto, los comandos y flujo de trabajo para cada uno.
 
 ### Flujo de trabajo profesional con merge en Git de ramas de desarrollador a master
 
@@ -24,10 +25,10 @@ Todos los repositorios de git, tienen la rama master (este sería el repositorio
 
 Básicamente el flujo de trabajo es:
 
-1. Crear ramas
+1. Crear ramas:
 `git branch <nombre de la rama>`
 
-2. El programador baja el repositorio con 
+2. El programador baja el repositorio con: 
 `git pull origin master`
 
 3. Asignar una rama a cada persona que programa para cambiar de rama utilizamos:
@@ -38,16 +39,16 @@ Comienzas a trabajar en esa rama y hacer los commits necesarios
 Quien programo desde esa rama sube su trabajo con:
 `git push origin <nombre de la rama>`
 
-Quien coordina baja y unifica todos los cambios con los siguientes coomandos
+Quien coordina baja y unifica todos los cambios con los siguientes coomandos:
 `git checkout <nombre de la rama>`
 
-Ya que estamos en la rama que vamos a unificar,  escribimos
+Ya que estamos en la rama que vamos a unificar,  escribimos:
 `git pull origin <nombre de la rama>`
 
 `git push origin <nombre de la rama>`
 
 
-Una vez que tengo la rama footer actualizada, procedo a hacer el merge con master
+Una vez que tengo la rama actualizada, procedo a hacer el merge con master
 `git checkout master`
 `git merge <nombre de la rama>`
 

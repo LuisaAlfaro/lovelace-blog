@@ -97,4 +97,4 @@ Por seguridad tendrás que hacer login, y si vuelves a dar clic en *New SSH key*
 
 Ahora podemos actualizar la URL que guardamos en nuestro repositorio remoto, solo que, en vez de guardar la URL con HTTPS, vamos a usar la URL con SSH:
 
- `git remote set-url origin url-ssh-del-repositorio-en-github
+ `git remote set-url origin url-ssh-del-repositorio-en-github`

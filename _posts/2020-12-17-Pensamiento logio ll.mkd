@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Teorías de Conjuntos 
-subtitle: Parte ll de pensamiento logico. 
+subtitle: Parte ll de pensamiento lógico. 
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [Pensamiento] [lógico]
+tags: [PensamientoLógico] 
 comments: true
 ---
 
-Continuando con los post sobre pensamiento logico, escribo sonbre la teoría de conjuntos la cual se entiende como un contenido del área de matemáticas pero sus utilidades van mucho más allá del desarrollo del pensamiento lógico matemático. Comprender la teoría de conjuntos nos permite utilizar los conjuntos como herramientas para analizar, clasificar y ordenar los conocimientos adquiridos desarrollando la compleja red conceptual que almacenamos nuestro aprendizaje.
+Continuando con los post sobre pensamiento lógico, escribo sonbre la teoría de conjuntos la cual se entiende como un contenido del área de matemáticas pero sus utilidades van mucho más allá del desarrollo del pensamiento lógico matemático. Comprender la teoría de conjuntos nos permite utilizar los conjuntos como herramientas para analizar, clasificar y ordenar los conocimientos adquiridos desarrollando la compleja red conceptual que almacenamos nuestro aprendizaje.
 
 ### Conceptos básicos: ###
 

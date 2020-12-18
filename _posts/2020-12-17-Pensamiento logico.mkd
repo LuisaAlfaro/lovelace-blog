@@ -1,0 +1,105 @@
+---
+layout: post
+title: Notas sobre pensamiento logico matemático 
+subtitle: Parte I. Sobre conceptos claves para el pensamiento lógico matemático
+gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+tags: [Pensamiento]
+comments: true
+---
+
+De acuerdo con el artículo "What is logic?" de Catarina Dutilh Novaes (https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic) la historia de la lógica debería interesar a cualquiera persona que tiene aspiraciones de pensar que es correcto, o al menos razonable, por eso consideré importante hablar primero de donde viene el pensamiento lógico. De acuerdo con A History of Formal Logic (1961) de J M Bocheński, los períodos dorados de la lógica fueron el período griego antiguo, el período escolástico medieval y el período matemático de los siglos XIX y XX. 
+
+La lógica es una de las habilidades básicas del pensamiento y es un proceso que nos permite obtener información del objeto de observación y concluir al respecto.
+
+En este post hablaremos sobre el pensamiento lógico matématico y cómo podemos mejorar las habilidades necesarias para desarrollarlo. 
+
+### Conceptos claves para el pensamiento lógico matemático ###
+
+**Observación** → A partir de la percepción. Nuestras percepción la tomamos a través de nuestros 5 sentidos, no solo del de los ojos.
+
+- Observación concreta: la que tomamos en el instante 
+
+-Observación abstracta: a través de experiencias previas.
+
+-Percibimos a través de nuestros sentidos
+
+-Recopilamos informacion
+
+-Registramos información
+
+-Identificamos la información
+
+**Descripción** → Preguntas básicas:
+
+¿Qué es?
+
+¿Qué tiene?
+
+¿Cómo es?
+
+¿Qué función cumple?
+
+¿Qué pasó?
+
+**Comparación** → Establecer diferencias y semejanzas en dos objetos. Llegas a particularizar o generalizar y como consecuencia comparamos.
+
+**Relación** → Primero observamos, comparamos y luego unimos con algún nexo >,<,=,
+
+**Clasificación** Proceso de agrupar estos objetos que cuentan con base en sus semejanzas
+
+**Lógica proposicional:** → Analiza las relaciones entre proposiciones, así como la verdad o falsedad de las mismas.
+-Variables: p q r s t
+-Conectores → ← * ^
+-Auxiliares (...) [...]
+
+**Otros conceptos:**
+Enunciado: conjunto de palabras
+
+Proposición: al que se le puede dar un valor
+
+Premisa: Enunciado que es afirmado
+
+Argumento: Conjunto de premisas
+
+Conclusión: a partir del argumento
+
+**Inferencias Lógicas:** Son el proceso de razonamiento por el cual se deriva o extrae una conclusión de una o varias premisas. 
+
+-Inferencia lógica inmediata: 
+
+P: Si Lucia siempre es puntual
+
+C: Es falso que llegue tarde
+
+(La conclusión es con base en una sola premisa)
+
+Inferencia Lógica mediata
+
+P: Todos los cuerpos se atraen
+
+P2: La Tierra y Venus son cuerpos
+
+C: La Tierra y Venus se atraen
+
+Inferencias Lógicas clasificadas según su forma de razonamiento:
+
+-Deductiva
+
+P1: Ningun mamifero nace del huevo
+
+P2: Toda ave nace del huevo
+
+c: Ningún ave es mamífero 
+
+-Inductiva:
+
+P1: El tucán tiene pico
+
+P2: La guacamaya tiene pico
+
+P3: La codorniz tiene pico
+
+C: Toda ave tiene pico
+
+En el siguiente post sobre pensamiento lógico matemático escribiré sobre Teoría de Conjuntos.

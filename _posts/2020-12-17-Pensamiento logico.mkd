@@ -4,7 +4,7 @@ title: Notas sobre pensamiento lógico
 subtitle: Parte I. Sobre conceptos clave 
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [Pensamiento]
+tags: [Pensamiento] [lógico]
 comments: true
 ---
 

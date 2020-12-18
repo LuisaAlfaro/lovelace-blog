@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teorías de Conjuntos 
+title: Teoría de Conjuntos 
 subtitle: Parte ll de pensamiento lógico. 
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]

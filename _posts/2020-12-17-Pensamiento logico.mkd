@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notas sobre pensamiento lógico matemático 
+title: Notas sobre pensamiento lógico 
 subtitle: Parte I. Sobre conceptos clave 
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -12,9 +12,9 @@ De acuerdo con el artículo "What is logic?" de Catarina Dutilh Novaes (https://
 
 La lógica es una de las habilidades básicas del pensamiento y es un proceso que nos permite obtener información de un objeto de observación y concluir al respecto.
 
-En este post escribo sobre el pensamiento lógico matématico y cómo podemos mejorar las habilidades necesarias para desarrollarlo. 
+En este post escribo sobre el pensamiento lógico y cómo podemos mejorar las habilidades necesarias para desarrollarlo. 
 
-### Conceptos claves para el pensamiento lógico matemático ###
+### Conceptos claves para el pensamiento lógico  ###
 
 **Observación** → A partir de la percepción. Nuestras percepción la tomamos a través de nuestros 5 sentidos, no solo del de los ojos.
 - Observación concreta: la que tomamos en el instante 

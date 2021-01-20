@@ -13,11 +13,10 @@ author: Luisa Alfaro
 
 navbar-links:
   Acerca de mi: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://LuisaAlfaro.github.io"
-    - Learn markdown: "https://LuisaAlfaro.github.io"
-    - Mejora tu privacidad: "https://www.torproject.org/"
-  Author's home: "https://LuisaAlfaro.github.io"
+  Recursos:
+    - Hijas Del Internet: "https://anchor.fm/hijas-de-internet"
+    - Mejora tu privacidad con Tor: "https://www.torproject.org/"
+  Apuntes de Lui: "https://luisaAlfaro.github.io/apuntes"
 
 # --- Logo --- #
 

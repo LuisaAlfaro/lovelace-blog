@@ -27,7 +27,7 @@ Cuando pones el concepto `git init`, aparecen dos conceptos nuevos:
 
 El siguiente flujo de trabajo es el que existe en tu computadora cada que agregas cambios a tu código y lo actualizas con Git.
 
-![Imagen](https://luisaalfaro.github.io/lovelace-blog/assets/img/Stating.jpg)
+![Imagen](https://luisaalfaro.github.io/lovelace-blog/assets/img/Staging.jpg)
 
 Para no repetir los comandos en este post y evitar hacerlo largo y tedioso, te recomiendo que revises el post "Primeros apuntes sobre Git" y "Funcionamiento de Git".
 

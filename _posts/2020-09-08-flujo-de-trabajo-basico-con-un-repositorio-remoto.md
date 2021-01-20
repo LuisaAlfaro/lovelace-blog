@@ -27,7 +27,7 @@ Cuando pones el concepto `git init`, aparecen dos conceptos nuevos:
 
 El siguiente flujo de trabajo es el que existe en tu computadora cada que agregas cambios a tu código y lo actualizas con Git.
 
-![Imagen](/Users/luisaalfaro/lovelace-blog/_posts/imagenes post/Staging.jpg)
+![Imagen](assets/img/Stating.jpg)
 
 Para no repetir los comandos en este post y evitar hacerlo largo y tedioso, te recomiendo que revises el post "Primeros apuntes sobre Git" y "Funcionamiento de Git".
 
@@ -67,7 +67,7 @@ La cabecera o `HEAD` representan la rama y el commit de esa rama donde estamos
 
 El comando git merge nos permite crear un nuevo commit con la combinación de dos ramas (la rama donde nos encontramos cuando ejecutamos el comando y la rama que indiquemos después del comando).
 
-```jsx
+```sh
 #Crear un nuevo commit en la rama master combiando 
 #los cambios de la rama cabecera:
 git checkout master

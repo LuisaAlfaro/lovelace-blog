@@ -12,7 +12,7 @@ author: Luisa Alfaro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Acerca de mi: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://LuisaAlfaro.github.io"
     - Learn markdown: "https://LuisaAlfaro.github.io"

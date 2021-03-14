@@ -1,0 +1,9 @@
+---
+layout: post
+title: ¿Por qué mi organización debe de tener un Protocolo para la atención de casos de violencia de género?
+subtitle: Si quieres una organización incluyente y justa, esta herramienta es fundamental.
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---

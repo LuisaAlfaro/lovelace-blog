@@ -3,9 +3,15 @@ layout: page
 title: Acerca de mí
 ---
 
-Soy Luisa, me gusta aprender e intentar cosas nuevas. 
+Hola, munda. 
 
-Soy politóloga. Estudié eso porque pensé que tendría más respuestas, no pasó, pero aprendí a preguntar mejor.
+Soy Luisa Alfaro, Adoro aprender e intentar cosas nuevas. 
+
+Soy politóloga. Me interesa problematizar problemas públicos y pensar en soluciones que involucren tecnología e innovación.
+
+#TechPolicy & #CivicTech
+
+Soy una hija de Internet. 
 
 Todo lo escrito aquí es *refutable* y **cambiante**.
 

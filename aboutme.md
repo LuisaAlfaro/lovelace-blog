@@ -5,7 +5,7 @@ title: Acerca de mí
 
 Hola, munda. 
 
-Soy Luisa Alfaro, Adoro aprender e intentar cosas nuevas. 
+Soy Luisa Alfaro. Adoro aprender e intentar cosas nuevas. 
 
 Soy politóloga. Me interesa problematizar problemas públicos y pensar en soluciones que involucren tecnología e innovación.
 

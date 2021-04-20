@@ -8,7 +8,7 @@ tags: [PensamientoLógico]
 comments: true
 ---
 
-Continuando con los post sobre pensamiento lógico, escribo sonbre la teoría de conjuntos la cual se entiende como un contenido del área de matemáticas pero sus utilidades van mucho más allá del desarrollo del pensamiento lógico matemático. Comprender la teoría de conjuntos nos permite utilizar los conjuntos como herramientas para analizar, clasificar y ordenar los conocimientos adquiridos desarrollando la compleja red conceptual que almacenamos nuestro aprendizaje.
+Continuando con los post sobre pensamiento lógico, escribo sobre la teoría de conjuntos la cual se entiende como un contenido del área de matemáticas pero sus utilidades van mucho más allá del desarrollo del pensamiento lógico matemático. Comprender la teoría de conjuntos nos permite utilizar los conjuntos como herramientas para analizar, clasificar y ordenar los conocimientos adquiridos desarrollando la compleja red conceptual que almacenamos nuestro aprendizaje.
 
 ### Conceptos básicos: ###
 

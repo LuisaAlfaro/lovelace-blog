@@ -1,0 +1,65 @@
+---
+layout: post
+title: ¿Por qué Pyhton? 
+subtitle: Primeras preguntas e instalación del programa
+gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+tags: [Python] 
+comments: true
+---
+
+
+
+La principal razón es que Python y su elegante sintaxis resuelven problemas de manera eficiente. Y hay una verdadera satisfacción en construir algo con un propósito y sofisticación al mismo tiempo.
+También porque en mi bootcamp estamos aprendiendo a programar con este lenguaje y descubrí que es el lenguaje más importante en temas de Ciencia de datos.
+*Entiendo que hay una discusión si R o Pyhton. No es de mi interés participar en ella. Puedes aprender los dos y listo.*
+
+
+### ¿A quienés van dirigidos estos post?
+
+Está escrito para personas de cualquier edad que nunca han programado en Python o nunca han programado en absoluto, *como yo*. Si quieres aprender los fundamentos de la programación rápidamente  y te gusta poner a prueba tu comprensión de nuevos conceptos, estas entradas son para ti.
+El objetivo es ponerte al día con Python y que tan rápido como te sea posible decidas iniciar a investigar y aprender más y pronto puedas construir programitas que funcionen, aquí podrás encontrar un espacio con los elementos principales de Python. 
+
+### Manos a la obra. Instalemos Python.
+
+hello_world.py.
+
+#### Python en Linux
+
+Los sistemas Linux están diseñados para programar, por lo que Python ya está instalado en la mayoría de los ordenadores Linux. Hay muy poco que tengas que instalar y muy pocas configuraciones que tengas que cambiar para empezar a programar.
+
+1. Abre una ventana de terminal ejecutando la aplicación Terminal en tu sistema (en Ubuntu, puedes pulsar ctrl-alt-T).
+2. Para saber si Python está instalado, introduce python con una p minúscula. Deberías ver una salida que te diga qué versión de Python está instalada y un prompt >>>.
+
+#### Python en Mac OS X
+
+Python ya está instalado en la mayoría de los sistemas OS X. Para usar la versión preinstalada de Python, sigue estos pasos:
+
+1. Abra la carpeta /Aplicaciones.
+2. Abra la carpeta Utilidades.
+Haga doble clic sobre Terminal para abrir una ventana de terminal y acceder a la línea de órdenes.
+3. Escriba python en la línea de órdenes.
+
+Deberías ver una salida que te diga qué versión de Python está instalada en tu sistema y un prompt >>> donde puedes empezar a introducir comandos de Python
+
+#### Pyhton en Windows
+
+Windows no siempre viene con Python, por lo que probablemente tendrá que descargarlo e instalarlo, y luego descargar e instalar un editor de texto.
+
+1. Comprueba si Python está instalado en tu sistema. Abre una ventana de comandos introduciendo command en el menú Inicio o manteniendo pulsada la tecla Mayúsculas mientras haces clic con el botón derecho del ratón en tu escritorio y seleccionando Abrir ventana de comandos aquí. 
+2. En la ventana de terminal, introduce python en minúsculas. Si te aparece un prompt de Python (>>>), Python está instalado en tu sistema. *Sin embargo, es probable que vea un mensaje de error que le indique que python no es un comando reconocido.*
+3. En ese caso, descarga un instalador de Python para Windows.
+ http:// python.org/downloads/. 
+ Verás dos botones, uno para descargar Python 3 y otro para descargar Python 2. 
+Haz clic en el botón de Python 3, que debería iniciar automáticamente la descarga del instalador correcto para tu sistema. 
+4. Cuando hayas descargado el archivo, ejecuta el instalador. Asegúrese de marcar la opción Add Python to PATH, que facilitará la configuración correcta de tu sistema. 
+
+#### Elige un editor de texto
+
+El último paso para comenzar a jugar con Python es elegir un editor de texto. Yo utilizo Visual Studio Code.
+https://visualstudio.microsoft.com/es/
+
+¿Hay mejores? No lo dudo.
+¿Me interesa esa discusión? En lo absoluto.
+
+Listo, podemos comenzar a aprender sobre conceptos básicos de Python mientras escribimos código.

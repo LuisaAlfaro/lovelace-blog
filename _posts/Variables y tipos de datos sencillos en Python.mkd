@@ -1,0 +1,81 @@
+---
+layout: post
+title: Variables y tipos de datos sencillos en Python
+subtitle: Diferentes tipos de datos con los que puedes trabajar en tus prgramas de Python.
+gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+tags: [Python] 
+comments: true
+---
+
+En este capítulo aprenderás cómo almacenar tus datos en variables y cómo usar esas variables en tus programas.  También aprenderás sobre los diferentes tipos de datos con los que puedes trabajar en tus programas de Python.
+
+###¿Qué es una variable?
+
+Una variable es un símbolo constituyente de un predicado, formúla o algoritmo o una preposición. Piénsalo como una caja en la que puedes guardar cosas. Cada variable contiene un valor, que es la información asociada a esa variable.
+
+#### Ejemplos de asignación de variables
+
+    >>> numero = 3
+    >>> print(numero)
+    3`
+
+#### Algunas reglas sobre la asignación de variables
+
+Cuando utilices variables en Python, necesitas adherirte a algunas reglas. Romper alguna causará errores; otras líneas guía sólo te ayudarán a escribir un código más fácil de leer y entender:
+- Los nombres de las variables sólo pueden contener letras, números y guiones bajos. Pueden empezar con una letra o un guión bajo, pero no con un número. Por ejemplo, puedes llamar a una variable `dato_1` pero no `1_dato.`
+- Los espacios no están permitidos en los nombres de las variables, pero los guiones bajos pueden utilizarse para separar palabras en los nombres de las variables.
+Por ejemplo, `datos_basicos` funciona, pero `datos basicos` provocará errores.
+- Los nombres de las variables deben ser cortos pero descriptivos. 
+Por ejemplo, `nombre `es mejor que `n`, `nombre_alumno` es mejor que `s_n`.
+-Las variables de Python que utilices en este momento deben estar en minúsculas. No tendrás errores si usas mayúsculas, pero es una buena idea evitar su uso por ahora.
+
+Puede llevar algo de práctica aprender a crear buenos nombres de variables. En la medida que escribas más programas y empieces a leer el código de otras personas, mejorarás en la creación de nombres significativos (eso dijo mi profesor :p).
+
+#### Tipos de datos sencillos
+Dado que la mayoría de los programas definen y recogen algún tipo de datos, y luego hacen algo útil con ellos, es útil clasificar los diferentes tipos de datos. 
+
+**El primer tipo de datos es la cadena o strings.**
+Las cadenas son bastante simples a primera vista, pero se pueden utilizar de muchas maneras diferentes.
+Una cadena es simplemente una serie de caracteres. Cualquier cosa dentro de las comillas se considera una cadena en Python, y puedes usar comillas simples o dobles alrededor de tus cadenas de esta manera:
+
+    `'Esto es un strings'`
+    `"Esto es un string"`
+
+**El segundo tipo de datos son los números**
+Los números se utilizan muy a menudo en la programación para llevar la puntuación en los juegos, representar datos en visualizaciones, almacenar información en aplicaciones web, etc. Python trata los números de diferentes maneras, dependiendo de cómo se utilicen. Veamos primero cómo Python maneja los enteros, porque son los más simples de trabajar.
+
+    >>> 2 + 3 
+	5
+    >>> 3 - 2 
+	1
+    >>> 2 * 3 
+	6
+    >>> 3 / 2
+	1.5
+Python también soporta el orden de las operaciones, por lo que puedes utilizar varias operaciones en una misma expresión. También puedes utilizar paréntesis para modificar el orden de las operaciones y que Python pueda evaluar tu expresión en el orden que especifiques. Por ejemplo:
+
+    >>> 2 + 3*4
+    14
+    >>> (2 + 3) * 4 20
+
+El espaciado en estos ejemplos no tiene ningún efecto en la forma en que Python evalúa las expresiones; simplemente te ayuda a detectar más rápidamente las operaciones que tienen prioridad cuando estás leyendo el código.
+
+**El tercer tipo de dato es float**
+Python llama float a cualquier número con punto decimal. Este término se utiliza en la mayoría de los lenguajes de programación, y se refiere al hecho de que un punto decimal puede aparecer en cualquier posición de un número.
+En su mayor parte, puedes usar decimales sin preocuparte de cómo se comportan. Simplemente introduce los números que desea utilizar, y Python hará el resto:
+
+    >>> 0.1 + 0.1 
+	0.2
+    >>> 0.2 + 0.2 
+	0.4
+    >>> 2 * 0.1 
+	0.2
+    >>> 2 * 0.2
+	0.4
+**El cuarto tipo de dato es booleano**
+El tipo booleano sólo puede tener dos valores: True (verdadero) y False (falso). 
+Estos valores son especialmente importantes para las expresiones condicionales y los bucles, como veremos más adelante.
+
+####Para cerrar
+En este capítulo aprendiste a trabajar con variables y a utilizar nombres de variables descriptivos. Aprendiste los tipos de datos: cadenas, booleanos y la diferencia entre números enteros y los float.
